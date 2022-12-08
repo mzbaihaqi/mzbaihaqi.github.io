@@ -1,1 +1,1 @@
-# https://mzbaihaqi.github.io/sleeper-community/
+# mzbaihaqi.github.io/sleeper-community/
